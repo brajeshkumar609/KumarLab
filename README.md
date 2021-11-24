@@ -1,5 +1,6 @@
-# blockchain-mlabreport
-Blockchain based medical lab test reporting system where multiple hospital can provide online lab report.
+# Medical Lab Reporting System
+
+Medical lab test reporting system where multiple hospital can provide online lab report.
 
 ### Dependency
     ◙ pip install jinja2                
