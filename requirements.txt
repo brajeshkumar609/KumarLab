@@ -19,7 +19,7 @@ pylint-django==2.0.14
 pylint-plugin-utils==0.6
 PyPDF2==1.26.0
 pytz==2019.3
-reportlab==3.5.42
+reportlab==3.5.55
 six==1.13.0
 sqlparse==0.3.0
 webencodings==0.5.1
